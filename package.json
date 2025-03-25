@@ -1,0 +1,7 @@
+{
+    "name": "chat-application",
+    "description": "Chat based on React, Socket.IO and Nest.js",
+    "version": "0.0.1",
+    "main": "pathToMain",
+    "dependencies": {}
+}
